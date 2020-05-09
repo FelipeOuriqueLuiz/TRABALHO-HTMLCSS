@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+   
+   <head>
+      <meta charset="UTF-8">
+      <title>Página 01</title>
+   </head>
+   
+   <body>
+      <h1 id="topo"> Culturas do Mundo</h1>
+      
+      <p>Este site abrange diversas culturas do Brasil e do mundo(das quais, muitas, desconhecemos),
+       tanto comuns,como exóticas.</p>
+    </body>
+
+   <head>
+      <meta charset="UTF-8">
+      <title>Página 02</title>
+   </head>
+
+   <body>
+      <h1> Tribo Sateré-Mawé, Amazônia</h1>
+
+      <p>Para que um menino passe a ser considerado homem entre os nativos da tribo Sateré-Mawé,
+      da Amazônia, ele tem de enfiar a mão vinte vezes em uma luva cheia deformigas tocandira, que
+      a picada mais dolorosa do mundo.</p>
+      <img src="https://conteudo.imguol.com.br/c/bol/fotos/2015/06/04/4-1433428363762_956x500.jpg" alt="Tribo Sateré-Mawé"
+      title="Amazônia">
+   </body>
+
+   <head>
+      <meta charset="UTF-8">
+      <title>Página 03</title>
+   </head>
+
+   <body>
+      <h1>Aldeias Karen Long Neck, Tailândia</h1>
+
+      <p>Os Karen fazem parte de um grupo tribal que historicamente viveu nas colinas de Myanmar perto da
+      fronteira tailandesa. Muito famosas por seus pescoços alongados, as mulheres Karen usam ​​anéis de bronze 
+      ao redor de seus pescoços, antebraços e canelas. Enquanto seus maridos trabalham no campo e em fazendas, 
+      elas trabalham com tecelagem e artesanato.Em geral, as tribos Long Neck vivem um estilo 
+      de vida simples, a tecelagem das mulheres é sempre muito viva e colorida.</p>
+      <img src="https://prefiroviajar.com.br/wp-content/uploads/mulheres-girafa-tailandia-1.jpg" alt="Aldeias karen Long Neck"
+      title="Tailândia">
+   </body>
+
+   <head>
+      <meta charset="UTF-8">
+      <title>Página 04</title>
+   </head>
+
+   <body>
+      <h1>Antigas Dinastias chinesas</h1>
+
+      <p>Antigas dinastias chinesas penduravam os caixões dos mortos no alto de penhascos, para que 
+      ficassem mais perto do céu e seus espíritos pudessem sair para passear entre as rochas.</p>
+      <img src="https://conteudo.imguol.com.br/c/bol/fotos/2015/06/04/13-1433428341312_956x500.jpg" alt="Dinastias chinesas"
+      title="China">
+   
+      
+      <a href="#topo">Voltar ao topo</a>
+   </body>
+
+</html>
